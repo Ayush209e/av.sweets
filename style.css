@@ -311,7 +311,7 @@
 
 .parallex_2{ 
     padding: 50px;
-    background: url(r4.jpg);
+    background: url("r4.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
